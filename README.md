@@ -26,13 +26,18 @@ I'm a passionate **Data Scientist & Machine Learning Engineer** with a strong fo
 
 ---
 
-## 📚 Relevant Courses Completed
-- **Deep Learning**
-- **Reinforcement Learning & Decision Making**
-- **Distributed Learning Systems**
-- **Social Media Analytics**
-- **Big Data Infrastructures**
-- **Digitalization & Information Systems**
+## 📚 Master Courses
+- **Deep Learning - University of Bern**
+- **Reinforcement Learning & Decision Making - University of Neuchatel**
+- **Social Media Analytics - University of Fribourg**
+- **Big Data Infrastructures - University of Fribourg**
+- **Digitalization & Information Systems - University of Fribourg**
+- **Emerging Technologies and Digitalization - University of Fribourg**
+- **Modelling and Scalling of Generative AI Systems - University of Neuchatel**
+- **User Centered Design - University of Fribourg**
+- **Seminar Data Science - University of Fribourg**
+- **Seminar ML and AI - University of Bern**
+- **Seminar Distributed Learning Systems - University of Neuchatel**
 
 ---
 
